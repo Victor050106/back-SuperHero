@@ -26,7 +26,7 @@ Este proyecto es un ejemplo de una API RESTful desarrollada con Express-Js que p
 
 1 Clona el repositorio en tu maquina local
 ```bash
-$ git clone git@github.com:Sebastian-Beltran-rincon-22/ApiSuperHero.git
+$ git clone https://github.com/Victor050106/back-SuperHero.git
 ```
 
 2 Navega en el directorio del proyecto 
@@ -64,10 +64,10 @@ http://localhost:8080
 
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia o quieres la documentacion para desarrollar este proyecto, no dudes en contactarme en [sebastianrincon834@gmail.com](sebastianrincon834@gmail.com).
+Si tienes alguna pregunta o sugerencia o quieres la documentacion para desarrollar este proyecto, no dudes en contactarme en [vimatoca050106@gmail.com](vimatoca050106@gmail.com).
 
 
 ## Autors
 
-- [@sebastian beltran](https://github.com/Sebastian-Beltran-rincon-22)
+- [@Victor Torres](https://github.com/Victor050106)
 # back-SuperHero
